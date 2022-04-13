@@ -1,5 +1,5 @@
 import numpy as np
-import sklearn.datasets             #加载原数据
+import sklearn.datasets            
 import matplotlib.pyplot as plt
 import random
 
